@@ -1,3 +1,9 @@
+![Platform](https://img.shields.io/badge/Platform-KNIME-yellow)
+![Model](https://img.shields.io/badge/Models-Ensemble_Regression-blue)
+![Algorithms](https://img.shields.io/badge/Used_Models-Linear_Tree_Forest-lightgrey)
+![Status](https://img.shields.io/badge/Status-Demonstration-blueviolet)
+![Updated](https://img.shields.io/badge/Last_Updated-3_days_ago-green)
+
 # KNIME Ensemble Regression Project
 
 This project demonstrates an **ensemble regression approach** implemented in the KNIME Analytics Platform. By combining predictions from three different regression models—**Linear Regression**, **Decision Tree**, and **Random Forest**—a final prediction is computed using the **Math Formula** node.
